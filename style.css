@@ -147,11 +147,11 @@
 }
 
 .card-inputs input:first-child{
-    min-width: 330px;
+    min-width: 300px;
 }
 
 .card-inputs input:nth-child(2), .card-inputs input:nth-child(3){
-    max-width: 80px;
+    max-width: 100px;
 }
 
 .submit{
